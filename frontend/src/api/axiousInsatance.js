@@ -1,7 +1,7 @@
 import axious from 'axios'
 
 const  axiousInstance = axious.create({
-    baseURL : 'http://localhost:5000'
+    baseURL : 'https://practise-9ck3.onrender.com'
 })
 
 
