@@ -6,6 +6,9 @@ Seamless robust form handling, error handling and express router for handling fi
 
 The admin section course creation process allows instructor to add individual lectures or bulk upload feature for media files, Manage courses allowing instructor to access and modify course information using dynamic routing and improving user experience.
 
+To Acesss Admin pannel
+Admin acess : Email : abc1234@gmail.com password : 123456789
+
 
 
 ## Tech Stack
